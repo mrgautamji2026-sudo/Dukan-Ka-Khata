@@ -1,0 +1,11 @@
+{
+  "name": "Dukan Ka Khata (दुकान का खाता)",
+  "description": "Personalized, lightweight, mobile-friendly Digital Ledger tailored for Indian micro-merchants with credit tracking, voice integration, dynamic UPI QR rails, and inventory stock matrix.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
